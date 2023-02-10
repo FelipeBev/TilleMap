@@ -383,7 +383,7 @@
          "name":"jitsi",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1124,6 +1124,11 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Mapa teste de escrit\u00f3rio"
+        }, 
+        {
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
@@ -1132,11 +1137,6 @@
          "name":"mapName",
          "type":"string",
          "value":"Escrit\u00f3rio"
-        },
-        {
-          "name":"mapDescription",
-          "type":"string",
-          "value":"Mapa teste de escrit\u00f3rio"
         },
         {
          "name":"script",
