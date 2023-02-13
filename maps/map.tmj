@@ -524,12 +524,12 @@
                         {
                          "name":"focusable",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"Sala de Reuni\u00f5es 1"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -556,12 +556,12 @@
                         {
                          "name":"focusable",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"Sala de Reuni\u00f5es 2"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -588,12 +588,12 @@
                         {
                          "name":"focusable",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"One-On-One 2"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -620,12 +620,12 @@
                         {
                          "name":"focusable",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"One-On-One 1"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -652,12 +652,12 @@
                         {
                          "name":"focusable",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"Sala de Reuni\u00f5es 3"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -684,12 +684,12 @@
                         {
                          "name":"focusable",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"Sala de Reuni\u00f5es 4"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -709,38 +709,6 @@
                 }, 
                 {
                  "class":"area",
-                 "height":134.543,
-                 "id":29,
-                 "name":"Mesa 15",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":162.696,
-                 "x":1057.152,
-                 "y":567.2285
-                }, 
-                {
-                 "class":"area",
                  "height":92.543,
                  "id":30,
                  "name":"Mesa 1",
@@ -753,7 +721,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Mesa 18"
+                         "value":"Mesa 1"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -770,102 +738,6 @@
                  "width":72.0293333333334,
                  "x":264.818666666667,
                  "y":128.2285
-                }, 
-                {
-                 "class":"area",
-                 "height":134.543,
-                 "id":31,
-                 "name":"Mesa 12",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":162.696,
-                 "x":479.652,
-                 "y":568.2285
-                }, 
-                {
-                 "class":"area",
-                 "height":134.543,
-                 "id":32,
-                 "name":"Mesa 13",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":162.696,
-                 "x":672.652,
-                 "y":569.2285
-                }, 
-                {
-                 "class":"area",
-                 "height":134.543,
-                 "id":33,
-                 "name":"Mesa 14",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":162.696,
-                 "x":864.152,
-                 "y":564.7285
                 }, 
                 {
                  "class":"area",
@@ -1346,6 +1218,646 @@
                  "width":72.0293,
                  "x":1203.73501666667,
                  "y":227.062
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":53,
+                 "name":"Mesa 17",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 17"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":261.90235,
+                 "y":454.895
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":54,
+                 "name":"Mesa 18",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 18"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":433.73535,
+                 "y":454.395
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":55,
+                 "name":"Mesa 19",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 20"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":262.40235,
+                 "y":553.062
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":56,
+                 "name":"Mesa 20",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 20"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":434.06835,
+                 "y":552.062
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":57,
+                 "name":"Mesa 21",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 21"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":510.90235,
+                 "y":453.895
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":58,
+                 "name":"Mesa 22",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 22"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":682.73535,
+                 "y":453.395
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":59,
+                 "name":"Mesa 23",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 23"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":511.40235,
+                 "y":552.062
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":60,
+                 "name":"Mesa 24",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 24"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":683.06835,
+                 "y":551.062
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":61,
+                 "name":"Mesa 25",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 25"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":767.90235,
+                 "y":455.895
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":62,
+                 "name":"Mesa 26",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 26"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":939.73535,
+                 "y":455.395
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":63,
+                 "name":"Mesa 27",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 27"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":768.40235,
+                 "y":554.062
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":64,
+                 "name":"Mesa 28",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 28"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":940.06835,
+                 "y":553.062
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":65,
+                 "name":"Mesa 29",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 29"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":1027.90235,
+                 "y":455.895
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":66,
+                 "name":"Mesa 30",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 30"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":1199.73535,
+                 "y":455.395
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":67,
+                 "name":"Mesa 31",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 31"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":1028.40235,
+                 "y":554.062
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":68,
+                 "name":"Mesa 32",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 32"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":1200.06835,
+                 "y":553.062
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":69,
+                 "name":"Mesa 33",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 33"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":75.90235,
+                 "y":741.895
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":70,
+                 "name":"Mesa 34",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 34"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":247.73535,
+                 "y":741.395
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":71,
+                 "name":"Mesa 35",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 35"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":76.40235,
+                 "y":840.062
+                }, 
+                {
+                 "class":"area",
+                 "height":92.543,
+                 "id":72,
+                 "name":"Mesa 36",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Mesa 36"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":72.0293,
+                 "x":248.06835,
+                 "y":839.062
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1456,7 +1968,7 @@
          "y":0
         }],
  "nextlayerid":54,
- "nextobjectid":53,
+ "nextobjectid":73,
  "orientation":"orthogonal",
  "properties":[
         {
