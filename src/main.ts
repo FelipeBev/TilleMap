@@ -5,7 +5,6 @@ import { bootstrapExtra } from "@workadventure/scripting-api-extra";
 console.log('Script started successfully');
 
 let currentPopup: any = undefined;
-let window: any = undefined;
 
 // Waiting for the API to be ready
 WA.onInit().then(() => {
@@ -22,7 +21,7 @@ WA.onInit().then(() => {
 
     WA.room.area.onEnter('urlLink').subscribe(() => {
 
-            window.open("https://play.workadventure.maps.com.br/_/icq/bitbucket.org/maps_team/workadventure-maps/raw/main/starter/maps/map.tmj");
+            window.location.href = "https://play.workadventure.maps.com.br/_/icq/bitbucket.org/maps_team/workadventure-maps/raw/main/starter/maps/map.tmj";
         })
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
