@@ -21,7 +21,7 @@ WA.onInit().then(() => {
 
     WA.room.area.onEnter('urlLink').subscribe(() => {
 
-            window.location.href = "https://play.workadventure.maps.com.br/_/icq/bitbucket.org/maps_team/workadventure-maps/raw/main/starter/maps/map.tmj";
+            window.open("https://play.workadventure.maps.com.br/_/icq/bitbucket.org/maps_team/workadventure-maps/raw/main/starter/maps/map.tmj");
         })
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
