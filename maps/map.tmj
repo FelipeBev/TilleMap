@@ -107,21 +107,9 @@
         {
          "draworder":"topdown",
          "id":54,
-         "name":"url",
-         "objects":[
-                {
-                 "class":"",
-                 "height":93.3333333333334,
-                 "id":85,
-                 "name":"urlLink",
-                 "rotation":0,
-                 "visible":true,
-                 "width":65.3333333333333,
-                 "x":32,
-                 "y":673.333333333333
-                }],
+         "name":"urlLink",
+         "objects":[],
          "opacity":1,
-         "properties":[],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -2009,6 +1997,17 @@
                  "width":72.0293,
                  "x":1138.40168333333,
                  "y":549.728666666667
+                }, 
+                {
+                 "class":"",
+                 "height":93.3333,
+                 "id":86,
+                 "name":"urlLink",
+                 "rotation":0,
+                 "visible":true,
+                 "width":65.3333,
+                 "x":27.33335,
+                 "y":670.666683333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2119,7 +2118,7 @@
          "y":0
         }],
  "nextlayerid":55,
- "nextobjectid":86,
+ "nextobjectid":87,
  "orientation":"orthogonal",
  "properties":[
         {
