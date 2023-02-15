@@ -107,8 +107,25 @@
         {
          "draworder":"topdown",
          "id":54,
-         "name":"urlLink",
-         "objects":[],
+         "name":"exit",
+         "objects":[
+                {
+                 "class":"area",
+                 "height":93.3333,
+                 "id":87,
+                 "name":"urlLink",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/play.workadventure.maps.com.br\/_\/global\/bitbucket.org\/maps_team\/workadventure-maps\/raw\/main\/starter\/maps\/core_quantitativo.tmj"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":65.3333,
+                 "x":35.33335,
+                 "y":671.33335
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -1997,17 +2014,6 @@
                  "width":72.0293,
                  "x":1138.40168333333,
                  "y":549.728666666667
-                }, 
-                {
-                 "class":"area",
-                 "height":93.3333,
-                 "id":86,
-                 "name":"urlLink",
-                 "rotation":0,
-                 "visible":true,
-                 "width":65.3333,
-                 "x":27.33335,
-                 "y":670.666683333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2118,7 +2124,7 @@
          "y":0
         }],
  "nextlayerid":55,
- "nextobjectid":87,
+ "nextobjectid":88,
  "orientation":"orthogonal",
  "properties":[
         {
